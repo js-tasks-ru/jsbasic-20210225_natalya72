@@ -5,11 +5,11 @@
  * Пример одного элемента, описывающего строку таблицы
  *
  *      {
-     *          name: 'Ilia',
-     *          age: 25,
-     *          salary: '1000',
-     *          city: 'Petrozavodsk'
-     *      },
+ *          name: 'Ilia',
+ *          age: 25,
+ *          salary: '1000',
+ *          city: 'Petrozavodsk'
+ *      }
  *
  */
 export default class UserTable {
@@ -61,5 +61,4 @@ export default class UserTable {
 
     tr.remove();
   }
-
 }
